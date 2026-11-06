@@ -1,12 +1,15 @@
 # Inverted Search Project Description
 
-Project Overview
+PROJECT OVERVIEW:
+
 The Inverted Search project is designed to create an efficient search system that indexes words from multiple text files. It uses an inverted index data structure to store words along with the names of files in which they appear and the frequency of their occurrence.
 
 This project helps users search for specific words across multiple files quickly without scanning each file repeatedly.
-Objective
+
+OBJECTIVE:
 The main objective of this project is to implement an efficient file-searching mechanism using data structures such as hash tables and linked lists.
-Key Features
+
+KEY FEATURES:
 - File Validation: Validates input files and checks whether they are accessible.
 - Database Creation: Creates an inverted index database from multiple text files.
 - Word Indexing: Stores unique words and their corresponding file details.
@@ -18,7 +21,8 @@ Technologies Used
 - Data Structures: Hash Table, Singly Linked List
 - File Handling: File I/O Operations
 - Concepts: Dynamic Memory Allocation, String Manipulation, Pointers
-Working Principle
+  
+WORKING PRINCIPLE:
 The project follows these steps:
 1. Read multiple text files.
 2. Extract words from each file.
