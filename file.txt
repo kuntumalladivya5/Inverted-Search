@@ -1,0 +1,6 @@
+#are;file1.txt:1
+#good;file2.txt:1
+#how;file1.txt:1
+#hi;file1.txt:1
+#morning;file2.txt:1
+#you;file1.txt:1
